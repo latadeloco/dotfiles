@@ -1,0 +1,5 @@
+sudo snap install gitkraken
+sudo snap install intellij-idea-ultimate --classic
+sudo snap install postman
+sudo snap install qt5-core20
+sudo snap install snapd
